@@ -1,0 +1,263 @@
+#nombre {
+    background-color:rgb(78, 78, 78);
+}
+#carrera {
+    background-color:	rgb(60, 60, 60);
+    
+  }
+  #dl{
+    background-color:	rgb(69, 69, 69);
+  }
+  #be {
+    background-color:	rgb(56, 56, 56);
+  }
+  #i1 {
+    background-color:rgb(0, 189, 155);
+  }
+  #i2 {
+    background-color:rgb(0, 153, 222);
+  }
+  #i3 {
+    background-color:rgb(175, 88, 187);
+  }
+  #i4 {
+    background-color:rgb(255, 127, 11);
+  }
+  #i5 {
+    background-color:	rgb(255, 75, 58);
+  }
+  #i6 {
+    background-color:rgb(233, 169, 0);
+  }
+  #pInfo {
+    background-color:rgb(239, 239, 239);
+  }
+  #Employment{
+    background-color:rgb(175, 88, 186);
+  }
+  #skills{
+    background-color:rgb(0, 153, 222);
+  }
+  
+  .photo {
+    display: block;
+border: 0cm;
+    margin: 0;
+    padding: 0cm;
+    width: 11.5cm;
+    height: 6.09cm;
+  }
+  .idload {
+    display: block;
+    margin: 0.5cm;
+    margin-left: 0.8cm;
+    width: 1.2cm;
+    height: 1cm;
+  }
+  .ibe {
+    display: block;
+    margin: 0.5cm;
+    margin-left: 1cm;
+    width: 1cm;
+    height: 1cm;
+  }
+  .iconos {
+    display: block;
+    margin: 0.2cm;
+    margin-top: 0.3cm;
+    margin-left: 1cm;
+    width: 1cm;
+    height: 1cm;
+  }
+  .iconoP {
+    display: block;
+    margin: 0.2cm;
+    margin-top: 0.3cm;
+    margin-left: 0.6cm;
+    width: 1.8cm;
+    height: 1cm;
+  }
+  .iconoF {
+    display: block;
+    margin: 0.2cm;
+    margin-top: 0.3cm;
+    margin-left: 0.7cm;
+    width: 1.4cm;
+    height: 1cm;
+  }
+  .iconoG {
+    display: block;
+    margin: 0.2cm;
+    margin-top: 0.3cm;
+    margin-left: 0.8cm;
+    margin-bottom: 0cm;
+    width: 1.2cm;
+    height: 1.2cm;
+  }
+  .letrasB {
+
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+  }
+  .letrasN {
+
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    margin: 1.2cm;
+    margin-bottom: 0.7cm;
+    margin-right: 0cm;
+    font-weight: 400;
+  }
+  .letrasps{
+
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin: 1.2cm;
+    margin-bottom: 0.7cm;
+    margin-right: 0cm;
+    font-weight: 400;
+  }
+  .letlist{
+
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 9pt;
+    margin-right: 0cm;
+    font-weight: 400;
+  }
+  #letrita{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 6pt;
+    font-weight: 400;
+  }
+  #iconos{
+    font-size: 8.5pt;
+    margin-left: 0.7cm;
+    margin-top: 0cm;
+    margin-bottom: 0.25cm;
+  }
+  #titu{
+    font-size: 9.5pt;
+    margin-left: 0.8cm;
+    margin-top: 0cm;
+    margin-bottom: 0.5cm;
+  }
+  #titua{
+    font-size: 9.5pt;
+    margin-left: 0.8cm;
+    margin-top: 0cm;
+    margin-bottom: 0.9cm;
+  }
+  #tituE{
+    font-size: 9.5pt;
+    margin-left: 0.8cm;
+    margin-top: 0cm;
+    margin-bottom: 1.5cm;
+  }
+  #iconosBlog{
+    font-size: 8.5pt;
+    margin-left: 1cm;
+    margin-top: 0cm;
+    margin-bottom: 0.25cm;
+  }
+  #colB{
+    margin: 0cm;
+    margin-bottom: 0.7cm;
+    margin-right: 0cm;
+  }
+  .iconoA{
+    display: inline-block;
+     width: 1cm;
+    height: 1cm;
+  }
+  #parrafo{
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 0.5cm;
+    font-size: 8.5pt;
+    font-weight: 800;
+
+  }
+  #parrCont1{
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 1.7cm;
+    font-size: 8pt;
+    margin-right: 0cm;
+  }
+  #parrCont2{
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 1.6cm;
+    font-size: 8pt;
+    margin-right: 0cm;
+    
+  }
+  #parrCont3{
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 1.4cm;
+    margin-top: 0.1cm;
+    font-size: 8pt;
+    margin-right: 0cm;
+  }
+  #tuerca{
+    width: 0.8cm;
+    height: 0.8cm;
+  }
+  #reloj{
+    width: 1.1cm;
+    height: 1.1cm;
+  }
+
+  #col{
+   margin-left: 1cm;
+    margin-bottom: 0.7cm;
+    margin-right: 0cm;
+  }
+  #rojo
+  {
+    font-size: 8.5pt;
+   color: red;
+   margin-top: 0.5cm;
+  }
+  #Tblanco
+  {
+    font-size: 8.5pt;
+  margin:0cm;
+  }
+  #blanco
+  {
+    margin-bottom: 0cm;
+  }
+  #iconosGrado{
+    font-size: 8.5pt;
+    margin-left: 0.8cm;
+    margin-top: 0cm;
+    margin-bottom: 0.25cm;
+  }
+  body{
+    zoom: 1.1;
+  }
+ #nomb{
+  margin: 0.5cm;
+  margin-bottom: 0.6cm;
+  font-weight: 400;
+ }
+ #carr{
+  margin: 0.7cm;
+  margin-left: 0.5cm;
+ }
+ #porcentajes{
+   margin-left: 1.2cm;
+ }
+ #porc{
+  width: 2.3cm;
+  height: 2.3cm;
+  margin-bottom: 0.6cm;
+ }
+ #lista{
+   color:white;
+ }
+ 
